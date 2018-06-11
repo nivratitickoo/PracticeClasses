@@ -4,7 +4,7 @@ import prac.Sorting.MergeSortImplementation;
 import prac.Sorting.QuickSortImplementation;
 
 /**
- * Created by QXO4360 on 4/24/2018.
+ * Created  on 4/24/2018.
  */
 public class BinarySearchRecursionImpl {
 

@@ -9,7 +9,7 @@ import java.util.regex.*;
 
 //On operators
 /**
- * Created by QXO4360 on 5/1/2018.
+ * Created QXO4360 on 5/1/2018.
  */
 public class Operators {
 

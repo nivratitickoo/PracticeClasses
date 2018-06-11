@@ -1,7 +1,7 @@
 package prac.Sorting;
 
 /**
- * Created by QXO4360 on 4/24/2018.
+ * Created QXO4360 on 4/24/2018.
  */
 public class MergeSortImplementation {
 

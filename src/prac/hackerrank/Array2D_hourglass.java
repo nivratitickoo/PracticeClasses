@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by QXO4360 on 6/8/2018.
+ * Created on 6/8/2018.
  */
 public class Array2D_hourglass {
 

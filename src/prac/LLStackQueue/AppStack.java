@@ -1,7 +1,7 @@
 package prac.LLStackQueue;
 
 /**
- * Created by QXO4360 on 4/20/2018.
+ * Created  on 4/20/2018.
  */
 public class AppStack {
 

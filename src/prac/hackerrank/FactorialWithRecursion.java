@@ -3,7 +3,7 @@ package prac.hackerrank;
 import java.util.Scanner;
 
 /**
- * Created by QXO4360 on 6/5/2018.
+ * Created  on 6/5/2018.
  * 4! = 1 X 2 x 3 X 4
  */
 public class FactorialWithRecursion {

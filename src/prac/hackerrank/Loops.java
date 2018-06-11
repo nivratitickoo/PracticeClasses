@@ -3,7 +3,7 @@ package prac.hackerrank;
 import java.util.Scanner;
 
 /**
- * Created by QXO4360 on 5/2/2018.
+ * Created  on 5/2/2018.
  */
 public class Loops {
 

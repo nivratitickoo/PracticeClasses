@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * Created by QXO4360 on 5/8/2018.
+ * Created  on 5/8/2018.
  */
 public class StringOddEvenIndicies {
 

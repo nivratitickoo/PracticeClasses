@@ -13,7 +13,7 @@ import java.util.*;
 //        If n is even and in the inclusive range of 6 to 20, print Weird
 //        If n is even and greater than 20, print Not Weird
 /**
- * Created by QXO4360 on 5/1/2018.
+ * Created  on 5/1/2018.
  */
 public class ConditionalStat {
 

@@ -1,7 +1,7 @@
 package prac.basics;
 
 /**
- * Created by QXO4360 on 4/25/2018.
+ * Created on 4/25/2018.
  */
 public class PowerOfTen {
 

@@ -3,7 +3,7 @@ package prac.hackerrank;
 import java.util.Scanner;
 
 /**
- * Created by QXO4360 on 6/6/2018.
+ * Created QXO4360 on 6/6/2018.
  */
 public class IntegertoBinaryNum {
 

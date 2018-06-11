@@ -3,7 +3,7 @@ package prac.hackerrank;
 import java.util.*;
 
 /**
- * Created by QXO4360 on 5/16/2018.
+ * Created  on 5/16/2018.
  * 4! = 1 X 2 x 3 X 4
  */
 public class FactorialWithoutRec {
